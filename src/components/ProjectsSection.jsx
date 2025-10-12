@@ -28,7 +28,37 @@ const projects = [
     image: "/projects/image copy 2.png",
     tags: ["React", "Node.js", "Angular","Typescript","MongoDB"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/angular-retail-aid",
+    githubUrl: "https://github.com/rithishvellingiri/inventory-management-prp-",
+  },
+  {
+    id: 4,
+    title: "Chatbot-NLP ",
+    description:
+      "Intelligent chatbot powered by NLP for human-like conversations and automated query handling.",
+    image: "/projects/image copy 3.png",
+    tags: ["NLP", "Tensorflow", "Streamlit"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/rithishvellingiri/chatbot-nlp",
+  },
+  {
+    id: 5,
+    title: "Injury Prediction System For Soccer",
+    description:
+      "Machine learning model to forecast injury risk in soccer players using workload and performance data",
+    image: "/projects/image copy 4.png",
+    tags: ["Machine Learning", "Streamlit"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/rithishvellingiri/injury-prediction-for-soccer",
+  },
+  {
+    id: 6,
+    title: "Employee attrition and Performance",
+    description:
+      "HR analytics platform leveraging ML to forecast employee turnover and evaluate performance metrics.",
+    image: "/projects/image copy 5.png",
+    tags: ["Predictive Analytics","Machine Leaning" ,"Streamlit"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/rithishvellingiri/ibm-hr-analytics",
   },
 ];
 
