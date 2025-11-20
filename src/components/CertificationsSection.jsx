@@ -32,6 +32,11 @@ export const CertificationsSection = () => {
       issuer: "NoviTech R&D Pvt Limited ",
       link: "https://drive.google.com/file/d/1DW7lAfiObvm_7T_jRDgm1SJERwq-OIcB/view?usp=drive_link"
     },
+    {
+      name: "AWS Fundamentals",
+      issuer: "Simplilearn ",
+      link: "https://drive.google.com/file/d/17zroyiKiqJQp84ZFFWZzNdoBfkD0J0CO/view?usp=drive_link"
+    },
   ];
 
   return (
