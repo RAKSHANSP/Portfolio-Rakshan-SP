@@ -6,7 +6,7 @@ const projects = [
     title: "Cricket Score Prediction",
     description: "A beautiful Streamlit landing page for score predictions using Machine Learning Algorithms.",
     image: "/projects/image.png",
-    tags: ["Python", "HTML", "Streamlit"],
+    tags: ["Python", "Machine Learning", "Streamlit"],
     demoUrl: "#",
     githubUrl: "https://github.com/rithishvellingiri/cricketscoreprediction",
   },
@@ -36,7 +36,7 @@ const projects = [
     description:
       "Intelligent chatbot powered by NLP for human-like conversations and automated query handling.",
     image: "/projects/image copy 3.png",
-    tags: ["NLP", "Tensorflow", "Streamlit"],
+    tags: ["NLP", "Tensorflow","Python", "Streamlit"],
     demoUrl: "#",
     githubUrl: "https://github.com/rithishvellingiri/chatbot-nlp",
   },
@@ -46,7 +46,7 @@ const projects = [
     description:
       "Machine learning model to forecast injury risk in soccer players using workload and performance data",
     image: "/projects/image copy 4.png",
-    tags: ["Machine Learning", "Streamlit"],
+    tags: ["Machine Learning","Python", "Streamlit"],
     demoUrl: "#",
     githubUrl: "https://github.com/rithishvellingiri/injury-prediction-for-soccer",
   },
@@ -56,9 +56,19 @@ const projects = [
     description:
       "HR analytics platform leveraging ML to forecast employee turnover and evaluate performance metrics.",
     image: "/projects/image copy 5.png",
-    tags: ["Predictive Analytics","Machine Leaning" ,"Streamlit"],
+    tags: ["Predictive Analytics","Machine Learning", "Python","Streamlit"],
     demoUrl: "#",
     githubUrl: "https://github.com/rithishvellingiri/ibm-hr-analytics",
+  },
+  {
+    id: 7,
+    title: "Language Transalator",
+    description:
+      "Multilingual text-translation system using Python and ML to convert and localize content across diverse languages in real time.",
+    image: "/projects/image copy 6.png",
+    tags: ["Machine Learning" ,"flask","Python"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/rithishvellingiri/language-translator",
   },
 ];
 
