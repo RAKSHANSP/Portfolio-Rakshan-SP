@@ -36,7 +36,7 @@ const projects = [
     description:
       "AgriVision provides smart crop recommendations along with accurate yield and price predictions to support better farming decisions.",
     image: "/projects/av.webp",
-    tags: ["Machine Learning", "Tensorflow","Python", "Predictive Analytics"],
+    tags: ["Machine Learning","Python", "Predictive Analytics"],
     demoUrl: "#",
     githubUrl: "https://github.com/RAKSHANSP/Agrivision",
   },
