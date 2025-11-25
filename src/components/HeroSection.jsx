@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { ArrowDown, X } from "lucide-react";
 // relative import used in the app build
-import profilePic from "../assets/rakshan.jpg"; // thumbnail used in hero
+import profilePic from "../assets/Rakshan.jpg"; // thumbnail used in hero
 // local file (original you uploaded) for reference: /mnt/data/rithish img.jpg
 
 export const HeroSection = () => {
@@ -27,7 +27,7 @@ export const HeroSection = () => {
           <div className="flex justify-center opacity-0 animate-fade-in">
             <img
               src={profilePic}
-              alt="Rithish Kumar"
+              alt="Rakshan SP"
               onClick={() => setOpen(true)}
               loading="lazy"
               className="
@@ -98,7 +98,7 @@ export const HeroSection = () => {
             <img
               // use same imported file (this should point to the full-resolution file in your assets)
               src={profilePic}
-              alt="Rakshan — full"
+              alt="assets/Rakshan — full"
               className="block max-w-full max-h-[80vh] rounded-lg object-contain shadow-2xl"
             />
           </div>
