@@ -60,7 +60,7 @@ export const ContactSection = () => {
                     href="mailto:rithishvellingiri@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    rithishvellingiri@gmail.com
+                    sprakshan2006@gmail.com
                   </a>
                 </div>
               </div>
@@ -74,7 +74,7 @@ export const ContactSection = () => {
                     href="tel:9715534855"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +91 9715534855
+                    +91  9003972034
                   </a>
                 </div>
               </div>
@@ -94,16 +94,13 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="https://www.linkedin.com/in/rithish-kumar-v-0659a1355/" target="_blank">
+                <a href="https://www.linkedin.com/in/rakshan-s-p-6ab3592ab/" target="_blank">
                   <Linkedin />
                 </a>
-                <a href="https://x.com/Rithish1703?t=ceICLFuJRfan17tNrSFt-w&s=09" target="_blank">
-                  <Twitter />
-                </a>
-                <a href="https://www.instagram.com/_rithish__17?igsh=MWo3Y3VtNHZzM2lsag==" target="_blank">
+                <a href="https://www.instagram.com/raks_the_alone_boy/" target="_blank">
                   <Instagram />
                 </a>
-                <a href="https://github.com/rithishvellingiri" target="_blank">
+                <a href="https://github.com/RAKSHANSP" target="_blank">
                   <Github/>
                 </a>
               </div>

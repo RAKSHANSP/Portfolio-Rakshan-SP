@@ -3,39 +3,44 @@ import { Award } from "lucide-react";
 export const CertificationsSection = () => {
   const certifications = [
     {
-      name: "Facebook ADS Campaign",
+      name: "Brand Marketing and SEO Tools using Wix",
       issuer: "Coursera",
-      link: "https://drive.google.com/file/d/1TTPtzVsyG5iFzhbbaPF3HwlpT0z-nj6f/view?usp=drive_link",
+      link: "https://drive.google.com/file/d/1tgc_fA2SxpFbqUxAQencQ5IPQeznHid4/view",
     },
     {
       name: "Machine Learning in Python",
       issuer: "Simplilearn",
-      link: "https://drive.google.com/file/d/1-KrShdq9VtobYA82ioE-rpCfORCXCc-T/view?usp=drive_link",
+      link: "https://drive.google.com/file/d/1JougHrgmulOh9bmyVVtZXFRgWookgMAe/view",
     },
     {
-      name: "5 Days Virtual Internship On CyberSecurity",
-      issuer: "Prompt Infotech",
-      link: "https://drive.google.com/file/d/1VreWNTlQCQc9rZB3Ui5m-p9JYHFP27oq/view?usp=drive_link",
+      name: "PowerBi for Beginners",
+      issuer: "Simplilearn",
+      link: "https://drive.google.com/file/d/1q9S9xNB1bGz3ktP6JYihZevoSTaqyTX1/view",
     },
     {
       name: "Principles Of Management",
       issuer: "Great Learning",
-      link: "https://drive.google.com/file/d/1CcaWtqaMP52BuLrcH-jQ8FhAkE1z7ZF7/view?usp=drive_link",
+      link: "https://drive.google.com/file/d/1RnNSOpaIYvFLhHv_7gx-lEpjguErXoZv/view",
     },
     {
-      name: "UI/UX for Beginers",
-      issuer: "Great Learning",
-      link: "https://drive.google.com/file/d/1swPto4Y-OxcVqlXR99kfYm1YMf31e4JE/view?usp=drive_link",
+      name: "Fundamentals of Software Development",
+      issuer: "Simplelearn",
+      link: "https://drive.google.com/file/d/1_MnGEejsZsRgkY_GcaHlKT7UAizd14Qv/view",
     },
     {
-      name: "Git/GitHub Workshop",
-      issuer: "NoviTech R&D Pvt Limited ",
-      link: "https://drive.google.com/file/d/1DW7lAfiObvm_7T_jRDgm1SJERwq-OIcB/view?usp=drive_link"
+      name: "ReactJS for Beginners",
+      issuer: "Cursa",
+      link: "https://drive.google.com/file/d/1cTH_q5WXP670DXf6OoiGxIWv12UkWP0D/view"
     },
     {
-      name: "AWS Fundamentals",
+      name: "FullStack Development",
       issuer: "Simplilearn ",
-      link: "https://drive.google.com/file/d/17zroyiKiqJQp84ZFFWZzNdoBfkD0J0CO/view?usp=drive_link"
+      link: "https://drive.google.com/file/d/17NvV1Rm2p_YsxRRIKncyRfmtvWNBgKvS/view"
+    },
+    {
+      name: "Data Science and Analytics",
+      issuer: "HP Foundation",
+      link: "https://drive.google.com/file/d/1lOeD0XDL0j0i2_tYHVyBmk1jeq5kmjzq/view",
     },
   ];
 

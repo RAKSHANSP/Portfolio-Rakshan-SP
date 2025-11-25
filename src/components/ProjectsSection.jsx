@@ -8,68 +8,49 @@ const projects = [
     image: "/projects/image.png",
     tags: ["Python", "Machine Learning", "Streamlit"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/cricketscoreprediction",
+    githubUrl: "https://github.com/RAKSHANSP/CricketScorePrediction",
   },
   {
     id: 2,
-    title: "Room Occupancy Prediction",
+    title: "AgriConnect System",
     description:
-      "Interactive analytics with data visualization and filtering capabilities,where the number of occupancies based on the sensor data.",
-    image: "/projects/image copy.png",
-    tags: ["Python ","HTML"],
+     "AgriConnect is an interactive platform that offers weather forecasting, product listing, group and private chat, Instagram-style information sharing, and a government updates page to help farmers stay informed and connected.",
+    image: "/projects/agriconnect.png",
+    tags: ["Angular ","MongoDB","Javascript","Typescript"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/predictiveanalytics",
+    githubUrl: "https://github.com/RAKSHANSP/AgriConnect",
   },
   {
     id: 3,
-    title: "Inventory Management System ",
+    title: "MyGovt Scheme",
     description:
-      "Full-featured inventory management platform with user authentication and payment processing.",
-    image: "/projects/image copy 2.png",
-    tags: ["React", "Node.js", "Angular","Typescript","MongoDB"],
+      "A simple website that helps users check eligibility and apply for government schemes easily.",
+    image: "/projects/GovtScheme.jpeg",
+    tags: ["Node.js", "React","Express.js","MongoDB"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/inventory-management-prp-",
+    githubUrl: "https://github.com/RAKSHANSP/MyGovtScheme",
   },
   {
     id: 4,
-    title: "Chatbot-NLP ",
+    title: "AgriVision",
     description:
-      "Intelligent chatbot powered by NLP for human-like conversations and automated query handling.",
-    image: "/projects/image copy 3.png",
-    tags: ["NLP", "Tensorflow","Python", "Streamlit"],
+      "AgriVision provides smart crop recommendations along with accurate yield and price predictions to support better farming decisions.",
+    image: "/projects/av.webp",
+    tags: ["Machine Learning", "Tensorflow","Python", "Predictive Analytics"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/chatbot-nlp",
+    githubUrl: "https://github.com/RAKSHANSP/Agrivision",
   },
   {
     id: 5,
-    title: "Injury Prediction System For Soccer",
-    description:
-      "Machine learning model to forecast injury risk in soccer players using workload and performance data",
-    image: "/projects/image copy 4.png",
-    tags: ["Machine Learning","Python", "Streamlit"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/injury-prediction-for-soccer",
-  },
-  {
-    id: 6,
     title: "Employee attrition and Performance",
     description:
       "HR analytics platform leveraging ML to forecast employee turnover and evaluate performance metrics.",
     image: "/projects/image copy 5.png",
     tags: ["Predictive Analytics","Machine Learning", "Python","Streamlit"],
     demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/ibm-hr-analytics",
+    githubUrl: "https://github.com/RAKSHANSP/HR-Analytics",
   },
-  {
-    id: 7,
-    title: "Language Transalator",
-    description:
-      "Multilingual text-translation system using Python and ML to convert and localize content across diverse languages in real time.",
-    image: "/projects/image copy 6.png",
-    tags: ["Machine Learning" ,"flask","Python"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/rithishvellingiri/language-translator",
-  },
+
 ];
 
 export const ProjectsSection = () => {

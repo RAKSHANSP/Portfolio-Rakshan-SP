@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { ArrowDown, X } from "lucide-react";
 // relative import used in the app build
-import profilePic from "../assets/rithish img.jpg"; // thumbnail used in hero
+import profilePic from "../assets/rakshan.jpg"; // thumbnail used in hero
 // local file (original you uploaded) for reference: /mnt/data/rithish img.jpg
 
 export const HeroSection = () => {
@@ -48,23 +48,20 @@ export const HeroSection = () => {
             <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
               {" "}
-              RITHISH
+              RAKSHAN 
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
               {" "}
-              KUMAR VELLINGIRI
             </span>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I create amazing websites and i'm experienced with modern technologies.
-            Specializing in front-end development, I build interfaces that are
-            both beautiful and functional.
+           I create complete web applications, handling everything from the user interface to the server and database. I enjoy building clean and responsive designs, and I also work with data to make my projects smarter and more useful. My goal is to build solutions that are easy to use, efficient, and reliable.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
             <a href="#projects" className="cosmic-button">
-              View My Work
+             My Works
             </a>
           </div>
         </div>
@@ -101,7 +98,7 @@ export const HeroSection = () => {
             <img
               // use same imported file (this should point to the full-resolution file in your assets)
               src={profilePic}
-              alt="Rithish Kumar — full"
+              alt="Rakshan — full"
               className="block max-w-full max-h-[80vh] rounded-lg object-contain shadow-2xl"
             />
           </div>
