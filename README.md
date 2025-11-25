@@ -1,4 +1,4 @@
-# 🌐 Rithish's Portfolio
+# 🌐 Rakshan's Portfolio
 
 This is my personal portfolio website built with **React + Vite + TailwindCSS**.  
 It showcases my **skills, projects, certifications, and contact information** in a clean and responsive design.  
