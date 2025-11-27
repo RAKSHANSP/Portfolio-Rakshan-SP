@@ -42,6 +42,11 @@ export const CertificationsSection = () => {
       issuer: "HP Foundation",
       link: "https://drive.google.com/file/d/1lOeD0XDL0j0i2_tYHVyBmk1jeq5kmjzq/view",
     },
+    {
+      name: "SQL For Beginners",
+      issuer:"Scaler",
+      link:"https://drive.google.com/file/d/19TR0R53TuRqQCMQ8eSDA3pXxPGCLP3fF/view"
+    }
   ];
 
   return (
